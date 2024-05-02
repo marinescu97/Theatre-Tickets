@@ -1,0 +1,9 @@
+First name: John
+Last name: Smith
+Phone number: 465647
+ID Client: 36856
+Show: Shadows of the Past
+Date: 23.06.2024
+Time: 15:00
+Seats: [5, 7, 14]
+Total payment: $36
